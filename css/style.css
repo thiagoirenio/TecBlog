@@ -124,3 +124,9 @@ h3 {
     margin-bottom: 10px;
     display: block;
 }
+
+#area-menu #destaque {
+    color: #f7b600;
+    background: #FFF;
+    text-decoration: none;
+}
