@@ -82,7 +82,7 @@
 <h1>
 	<p align="center">Imagem do site Home</p> 
 	<a href="https://thiagoirenio.github.io/TecBlog/">Home</a><br>
-	<img src="https://github.com/thiagoirenio/TecBlog/blob/main/imagensReadme/site01.png" alt="Imagem do site 01" width="850" height="315" align="center"><br>
+	<img src="https://github.com/thiagoirenio/TecBlog/blob/main/imagensReadme/site02.png" alt="Imagem do site 01" width="850" height="315" align="center"><br>
 	<hr size="3" width="100%" align="center" style="border: 1px solid #000;">
 </h1>
 
